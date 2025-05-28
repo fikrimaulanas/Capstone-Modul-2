@@ -1,4 +1,4 @@
-# **Analisa Bisnis dalam Supermarket**
+# **Analisa Bisnis dalam Supermarket menggunakan metode LRFM**
 
 # Tujuan Analisis
 * Mengelompokkan pelanggan supermarket ke dalam beberapa segmen menggunakan metode K-Means Clustering.
