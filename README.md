@@ -1,4 +1,4 @@
-# Capstone-Modul-2
+# **Analisa Bisnis dalam Supermarket**
 
 # Tujuan Analisis
 * Mengelompokkan pelanggan supermarket ke dalam beberapa segmen menggunakan metode K-Means Clustering.
